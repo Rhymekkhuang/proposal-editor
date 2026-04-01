@@ -12,7 +12,7 @@
 ## 安装方法
 
 1. 下载本仓库的 zip 包
-2. 在 CodeBuddy/WorkBuddy 的专家中心添加新 skill
+2. 在 ClaudeCode/WorkBuddy/openclaw/qoderwork等辅助安装或者找到skill上传区
 3. 导入 proposal-editor.zip
 
 ## 示例场景
